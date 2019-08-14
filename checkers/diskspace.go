@@ -6,7 +6,7 @@ import (
 	"os"
 	"syscall"
 
-	"git.code.oa.com/garypdong/healthcheck"
+	"github.com/jiyis/healthcheck"
 )
 
 type diskspace struct {

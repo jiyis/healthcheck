@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"git.code.oa.com/garypdong/healthcheck"
+	"github.com/jiyis/healthcheck"
 )
 
 type heartbeat struct {
